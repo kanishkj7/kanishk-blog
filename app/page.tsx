@@ -56,7 +56,7 @@ export default async function Home() {
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold mb-4">Welcome to Varun Blog</h1>
           <p className="text-xl text-zinc-600 dark:text-zinc-400">
-            Here i varun write about my life and my experiences. I hope you enjoy reading
+            Here i Kanisk write about my life and my experiences. I hope you enjoy reading
           </p>
         </div>
       </section>

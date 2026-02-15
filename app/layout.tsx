@@ -8,7 +8,7 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Varun Blog - A Minimal Blog Platform",
+  title: "Kanishk Blog - A Minimal Blog Platform",
   description: "A minimal blog platform for two authors",
 }
 
@@ -27,7 +27,7 @@ export default function RootLayout({
           <main className="flex-1 container mx-auto px-4 py-8">{children}</main>
           <footer className="border-t border-zinc-200 dark:border-zinc-800 py-6">
             <div className="container mx-auto px-4 text-center text-sm text-zinc-500 dark:text-zinc-400">
-              &copy; Varun Blogs;
+              &copy; Kanishk Blogs;
             </div>
           </footer>
         </ThemeProvider>
